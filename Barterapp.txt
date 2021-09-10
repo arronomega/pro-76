@@ -1,0 +1,10 @@
+The various pruposes this app can be utilised for like buying ,selling,exchanging and windowshopping
+Users like people who just want sell or exchange their stuff.
+I want it to be userfriendly so that users don't feel overwhelmed with the UI.
+I want it to be simple and eazy so that people don't have to that many steps .
+
+user should able to login and sign up in the same place then be shown to 
+all the present exchanges and etc.They should able to navigate thru the different pages.
+They should be able to rceive and send products  and make their own profile
+
+
